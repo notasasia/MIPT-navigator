@@ -1,0 +1,17 @@
+{
+  "source": "https://huggingface.co/onnx-community/rubert-tiny-ONNX",
+  "revision": "9a8d2ed31c37246d2a8d4d9f500dc1ca66563114",
+  "files": [
+    [
+      "model.onnx",
+      "b57b049fbe8a567203f86b8172b56df1c8c74d1900827ed665ee2efa649c0774",
+      12089905
+    ],
+    [
+      "tokenizer.json",
+      "ab50fe01eb78a45f917be4c1ead1e08d87738b074900f447f7c3d74e9b7d6017",
+      705882
+    ]
+  ],
+  "encoder_sha256": "dace4d8c09925468e7c50cf7ab4fc511dc5757557652ec1e516e3ecc4386cd55"
+}

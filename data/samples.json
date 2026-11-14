@@ -1,0 +1,22 @@
+{
+  "107f8304a6f3fe8f5c2d7dd684417a214da4b9709ed3d7cb5ed27c37c411d37d": {
+    "key": "travel",
+    "title": "Командировка сотрудника",
+    "name": "travel-example.pdf"
+  },
+  "6751627f5931b31fae34411b6949f79f80a0878f88f99fd3ecbe01eeee99762d": {
+    "key": "support",
+    "title": "Учебная ИТ-служба",
+    "name": "support-example.pdf"
+  },
+  "6e96ee96ce9d298c7af387910f8c8529b438297d1a8ea9d919091fa1ae46f7e3": {
+    "key": "estimate",
+    "title": "Порядок составления сметы",
+    "name": "estimate-example.docx"
+  },
+  "74956719122cb1b8720ebb192cfb6aa5da376dd700c130f8ec7a1df7b5d7191f": {
+    "key": "rcni",
+    "title": "Годовая смета, учебная форма",
+    "name": "budget-example.xlsx"
+  }
+}

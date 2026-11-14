@@ -1,0 +1,10 @@
+services:
+  navigator:
+    build: .
+    ports:
+      - "127.0.0.1:8501:8501"
+    volumes:
+      - navigator-state:/app/state
+      - ./models:/app/models:ro
+volumes:
+  navigator-state:

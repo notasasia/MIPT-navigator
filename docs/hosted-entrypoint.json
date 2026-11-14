@@ -1,0 +1,136 @@
+{
+  "url": "http://127.0.0.1:60783",
+  "version": "2026.11.14-r3",
+  "question": "Как получить спектрометр? Опишите весь порядок выдачи.",
+  "answer": {
+    "status": "partial",
+    "summary": "Порядок действий",
+    "steps": [
+      {
+        "number": 1,
+        "action": "Для получения спектрометра лаборант регистрирует заявку в журнале «Спектр».",
+        "condition": "",
+        "after": [],
+        "evidence": [
+          {
+            "document_id": "7653b702785e32d55ae0408bdda4974dc665cbb4c386cbbdd39f19ca4552d871",
+            "fragment_id": "7653b702785e32d5-0003",
+            "title": "jury-spectrometer",
+            "filename": "jury-spectrometer.docx",
+            "signed": "2026-11-12",
+            "registered": "",
+            "effective": "",
+            "location": "п. 1 · абз. 3",
+            "clause": "1",
+            "quote": "1. Для получения спектрометра лаборант регистрирует заявку в журнале «Спектр»."
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "action": "После регистрации заявки по пункту 1 заведующий проверяет наличие свободного спектрометра.",
+        "condition": "После регистрации заявки по пункту 1 заведующий проверяет наличие свободного спектрометра.",
+        "after": [
+          1
+        ],
+        "evidence": [
+          {
+            "document_id": "7653b702785e32d55ae0408bdda4974dc665cbb4c386cbbdd39f19ca4552d871",
+            "fragment_id": "7653b702785e32d5-0004",
+            "title": "jury-spectrometer",
+            "filename": "jury-spectrometer.docx",
+            "signed": "2026-11-12",
+            "registered": "",
+            "effective": "",
+            "location": "п. 2 · абз. 4",
+            "clause": "2",
+            "quote": "2. После регистрации заявки по пункту 1 заведующий проверяет наличие свободного спектрометра."
+          },
+          {
+            "document_id": "7653b702785e32d55ae0408bdda4974dc665cbb4c386cbbdd39f19ca4552d871",
+            "fragment_id": "7653b702785e32d5-0003",
+            "title": "jury-spectrometer",
+            "filename": "jury-spectrometer.docx",
+            "signed": "2026-11-12",
+            "registered": "",
+            "effective": "",
+            "location": "п. 1 · абз. 3",
+            "clause": "1",
+            "quote": "1. Для получения спектрометра лаборант регистрирует заявку в журнале «Спектр»."
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "action": "Если проверка по пункту 2 подтвердила наличие прибора, лаборант подписывает акт выдачи.",
+        "condition": "Если проверка по пункту 2 подтвердила наличие прибора, лаборант подписывает акт выдачи.",
+        "after": [
+          2
+        ],
+        "evidence": [
+          {
+            "document_id": "7653b702785e32d55ae0408bdda4974dc665cbb4c386cbbdd39f19ca4552d871",
+            "fragment_id": "7653b702785e32d5-0005",
+            "title": "jury-spectrometer",
+            "filename": "jury-spectrometer.docx",
+            "signed": "2026-11-12",
+            "registered": "",
+            "effective": "",
+            "location": "п. 3 · абз. 5",
+            "clause": "3",
+            "quote": "3. Если проверка по пункту 2 подтвердила наличие прибора, лаборант подписывает акт выдачи."
+          },
+          {
+            "document_id": "7653b702785e32d55ae0408bdda4974dc665cbb4c386cbbdd39f19ca4552d871",
+            "fragment_id": "7653b702785e32d5-0004",
+            "title": "jury-spectrometer",
+            "filename": "jury-spectrometer.docx",
+            "signed": "2026-11-12",
+            "registered": "",
+            "effective": "",
+            "location": "п. 2 · абз. 4",
+            "clause": "2",
+            "quote": "2. После регистрации заявки по пункту 1 заведующий проверяет наличие свободного спектрометра."
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "action": "После подписания акта по пункту 3 кладовщик передаёт спектрометр лаборанту.",
+        "condition": "После подписания акта по пункту 3 кладовщик передаёт спектрометр лаборанту.",
+        "after": [
+          3
+        ],
+        "evidence": [
+          {
+            "document_id": "7653b702785e32d55ae0408bdda4974dc665cbb4c386cbbdd39f19ca4552d871",
+            "fragment_id": "7653b702785e32d5-0006",
+            "title": "jury-spectrometer",
+            "filename": "jury-spectrometer.docx",
+            "signed": "2026-11-12",
+            "registered": "",
+            "effective": "",
+            "location": "п. 4 · абз. 6",
+            "clause": "4",
+            "quote": "4. После подписания акта по пункту 3 кладовщик передаёт спектрометр лаборанту."
+          },
+          {
+            "document_id": "7653b702785e32d55ae0408bdda4974dc665cbb4c386cbbdd39f19ca4552d871",
+            "fragment_id": "7653b702785e32d5-0005",
+            "title": "jury-spectrometer",
+            "filename": "jury-spectrometer.docx",
+            "signed": "2026-11-12",
+            "registered": "",
+            "effective": "",
+            "location": "п. 3 · абз. 5",
+            "clause": "3",
+            "quote": "3. Если проверка по пункту 2 подтвердила наличие прибора, лаборант подписывает акт выдачи."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Зависимость между шагами не подтверждена явной отсылкой."
+    ]
+  }
+}
